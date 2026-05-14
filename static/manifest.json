@@ -1,0 +1,43 @@
+{
+  "name": "Fluency 01 — AI English Tutor",
+  "short_name": "Fluency 01",
+  "description": "Real-time voice & text AI English tutor powered by Groq + Whisper. Pratica l'inglese con un tutor AI nativo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f0f4f8",
+  "theme_color": "#6366f1",
+  "lang": "it",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%236366f1'/%3E%3Ctext x='96' y='130' font-size='100' text-anchor='middle'%3E%F0%9F%8E%99%EF%B8%8F%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%236366f1'/%3E%3Ctext x='256' y='340' font-size='260' text-anchor='middle'%3E%F0%9F%8E%99%EF%B8%8F%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Free Talk",
+      "short_name": "Free Talk",
+      "description": "Conversazione libera con il tutor AI",
+      "url": "/?topic=Free+Talk"
+    },
+    {
+      "name": "Job Interview",
+      "short_name": "Interview",
+      "description": "Pratica colloqui di lavoro in inglese",
+      "url": "/?topic=Job+Interview"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
