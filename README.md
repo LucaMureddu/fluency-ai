@@ -6,6 +6,7 @@
 
 *Un tutor AI nativo sempre disponibile, a costo zero.*
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fluency-ai.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Groq](https://img.shields.io/badge/Groq-Llama_3.1-F55036?style=flat-square)](https://groq.com)
@@ -17,6 +18,8 @@
 
 **Fluency 01** è un'applicazione web full-stack per la pratica dell'inglese con un tutor AI.  
 Parli al microfono, ricevi una risposta vocale in meno di 1.5 secondi, e ottieni correzioni grammaticali in tempo reale — tutto gratuitamente, senza infrastruttura cloud.
+
+🚀 **[Prova live → fluency-ai.streamlit.app](https://fluency-ai.streamlit.app)**
 
 [Funzionalità](#-funzionalità) · [Demo Pipeline](#-come-funziona) · [Installazione](#-installazione) · [Architettura](#-architettura) · [Changelog](#-changelog)
 
