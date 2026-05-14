@@ -1,0 +1,62 @@
+# ── Secrets — MAI committare ──────────────────────────────────
+.env
+*.key
+*.pem
+secrets.toml
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ── Virtual environments ───────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env.bak
+
+# ── Audio temporanei (generati a runtime) ─────────────────────
+fluency_*.wav
+fluency_*.mp3
+*.wav
+*.mp3
+
+# ── Streamlit cache ───────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── OS & Editor ───────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── File di installazione falliti ─────────────────────────────
+=*
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Log e temporanei ─────────────────────────────────────────
+*.log
+*.tmp
+*.bak
